@@ -1,1 +1,1 @@
-# react-ts-starter
+# react-svg-starter
